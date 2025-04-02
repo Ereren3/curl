@@ -509,3 +509,5 @@
 2025-06-04 18:46:00 | INFO | repo=curl | action=commit
 2025-08-21 16:35:00 | WARN | repo=curl | action=commit
 2025-03-06 07:38:00 | INFO | repo=curl | action=commit
+2025-01-23 18:24:00 | WARN | repo=curl | action=edit | files=3
+2025-04-01 19:16:00 | DEBUG | repo=curl | action=commit
