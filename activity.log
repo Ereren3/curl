@@ -496,3 +496,5 @@
 2025-09-26 18:07:00 | INFO | repo=curl | action=commit
 2025-02-22 18:17:00 | INFO | repo=curl | action=commit
 2025-10-23 16:45:00 | INFO | repo=curl | action=commit
+2025-07-07 11:18:00 | WARN | repo=curl | action=pull
+2025-12-27 20:02:00 | WARN | repo=curl | action=commit
